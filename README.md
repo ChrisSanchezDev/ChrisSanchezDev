@@ -13,7 +13,7 @@ I'm a Backend-focused Computer Science student at Florida International Universi
 </td>
 <td valign="top" width="40%">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrissanchezdev&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
 </tr>
