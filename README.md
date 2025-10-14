@@ -5,7 +5,8 @@ I'm a Backend-focused Computer Science student at Florida International Universi
 ---
 
 * 🔭 **I’m currently contributing to:**
-    * **Backend issues for [Zulip](https://github.com/zulip/zulip) with a team of five**, an open-source team chat application, using Python and Django to fix user-reported issues.
+    * **Backend issues for [Zulip](https://github.com/zulip/zulip) in a team of five**, an open-source team chat application, using Python and Django to fix user-reported issues.
+    * **Backend features for [MyMusicPage](https://github.com/Nielson19/mymusicpage) in a team of ten**, Pinterest-like website designed to help you discover music and connect to people that share the same music vibe.
 * 🌱 **I’m deepening my knowledge of cloud architecture** and recently became an **AWS Certified Cloud Practitioner**.
 * 💬 **Ask me about:** Python, Django, REST APIs, and getting started with open-source.
 * 📫 **How to reach me:** [ChrisSanchezDev@gmail.com](mailto:ChrisSanchezDev@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/chrissanchezdev/).
