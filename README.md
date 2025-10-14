@@ -1,6 +1,6 @@
-### Hi there, I'm Christopher 👋
+### Hi there, I'm Chris Sanchez 👋
 
-I'm a Backend-focused Computer Science student at Florida International University with a passion for building scalable systems, contributing to open-source, and exploring cloud technologies.
+Senior Computer Science student at Florida International University with a passion focused on backend development. Experienced in Python through practical application in open-source projects, API integration, and webhook testing. A dedicated and fast-learning student committed to contributing to real-world solutions.
 
 ---
 
