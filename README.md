@@ -5,7 +5,7 @@ I'm a Backend-focused Computer Science student at Florida International Universi
 ---
 
 * 🔭 **I’m currently contributing to:**
-    * **Backend issues for [Zulip](https://zulip.com/)** with a team of five, an open-source team chat application, using Python and Django to fix user-reported issues.
+    * **Backend issues for [Zulip](https://zulip.com/) with a team of five**, an open-source team chat application, using Python and Django to fix user-reported issues.
 * 🌱 **I’m deepening my knowledge of cloud architecture** and recently became an **AWS Certified Cloud Practitioner**.
 * 💬 **Ask me about:** Python, Django, REST APIs, and getting started with open-source.
 * 📫 **How to reach me:** [ChrisSanchezDev@gmail.com](mailto:ChrisSanchezDev@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/chrissanchezdev/).
