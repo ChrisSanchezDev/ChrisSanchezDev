@@ -1,11 +1,11 @@
 ### Hi there, I'm Chris Sanchez 👋
 
-Senior Computer Science student at Florida International University with a passion focused on backend development. Experienced in Python through practical application in open-source projects, API integration, and webhook testing. A dedicated and fast-learning student committed to contributing to real-world solutions.
+I'm a senior Computer Science student at Florida International University with a passion focused on backend development. Experienced in Python through practical application in open-source projects, API integration, and webhook testing. A dedicated and fast-learning student committed to contributing to real-world solutions.
 
 ---
 
 * 🔭 **I’m currently working on:**
-    * **My own custom Portfolio + Homelab website [ChrisSanchezDev-Website](https://github.com/Nielson19/mymusicpage)**, a website dedicated as a portfolio of my accomplishments as a Backend Software Engineer and a view into my Homelab projects (while allowing for my own control of my Homelab projects).
+    * **My own custom Portfolio + Homelab website [ChrisSanchezDev-Website](https://github.com/ChrisSanchezDev/chrissanchezdev-website)**, a website dedicated as a portfolio of my accomplishments as a Backend Software Engineer and a view into my Homelab projects (while allowing for my own control of my Homelab projects).
     * **Backend features for [MyMusicPage](https://github.com/Nielson19/mymusicpage) in a team of ten**, Pinterest-like website designed to help you discover music and connect to people that share the same music vibe.
     * **Backend issues for [Zulip](https://github.com/zulip/zulip) in a team of five**, an open-source team chat application, using Python and Django to fix user-reported issues.
 * 🌱 **I’m currently deepening my knowledge of React, Express, Flask, Pandas, and NumyPy.**
