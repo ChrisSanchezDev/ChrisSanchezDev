@@ -55,7 +55,7 @@ I'm a senior Computer Science student at Florida International University with a
 **Methodologies**
 <p>
   <img src="https://img.shields.io/badge/Agile_(Scrum)-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/ModelControllerService_Pattern-5C5C5C?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCS_Pattern-5C5C5C?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Rapid_Prototyping-FFB11B?style=for-the-badge&logo=lightning&logoColor=black" />
 </p>
 
