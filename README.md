@@ -62,6 +62,4 @@ I'm a senior Computer Science student at Florida International University with a
 ---
 
 ### 📊 My GitHub Stats
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+![Chris's GitHub stats](https://github-readme-stats-chi-six-42.vercel.app/api?username=chrissanchezdev&show_icons=true&hide_rank=true&theme=transparent)
