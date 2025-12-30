@@ -62,5 +62,4 @@ I'm a senior Computer Science student at Florida International University with a
 ---
 
 ### 📊 My GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrissanchezdev&show_icons=true&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrissanchezdev&show_icons=true&theme=transparentl&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
