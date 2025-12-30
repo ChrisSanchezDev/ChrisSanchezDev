@@ -8,7 +8,7 @@ I'm a senior Computer Science student at Florida International University with a
     * **My own custom Portfolio + Homelab website**, a website dedicated as a portfolio of my accomplishments as a Backend Software Engineer and a view into my Homelab project data (separate from my Homelab controller for managing over these projects).
     * **Backend features for [MyMusicPage](https://github.com/Nielson19/mymusicpage) in a team of ten**, Pinterest-like website designed to help you discover music and connect to people that share the same music vibe.
     * **Backend issues for [Zulip](https://github.com/zulip/zulip) in a team of five**, an open-source team chat application, using Python and Django to fix user-reported issues.
-* 🌱 **I’m currently deepening my knowledge of MERN and at-home servers.**
+* 🌱 **I’m currently deepening my knowledge of MERN, Flask, and local home servers.**
 * 📫 **How to reach me:** [ChrisSanchezDev@gmail.com](mailto:ChrisSanchezDev@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/chrissanchezdev/).
 
 ---
