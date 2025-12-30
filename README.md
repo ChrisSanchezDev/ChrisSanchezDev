@@ -62,14 +62,6 @@ I'm a senior Computer Science student at Florida International University with a
 ---
 
 ### 📊 My GitHub Stats
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ChrisSanchezDev&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ChrisSanchezDev&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ChrisSanchezDev&show_icons=true" />
-</picture>
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
