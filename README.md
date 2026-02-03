@@ -7,7 +7,7 @@ I'm a senior Computer Science student at Florida International University with a
 * 🔭 **I’m currently working on:**
     * **My own custom Portfolio + HomeLab website**, a website dedicated as a portfolio of my accomplishments as a Backend Software Engineer and a view into my Homelab project data (separate from my Homelab controller for managing over these projects).
     * **Applying for internships**, where I'd like to take the Summer to really learn all I can in a real-world enviornment while giving my all for the company I'll be working with, and hopefully building a connection to continue giving them my all with any future opportunities they may offer.
-    * **Developing a way to demonstrate my projects**, likely thru creating Youtube videos atleast demonstrating my collection of HomeLab projects, or creating mini videos of each, all collected within one Youtube playlists.
+    * **Developing a way to demonstrate my projects**, likely thru creating Youtube videos atleast demonstrating my collection of HomeLab projects, or creating mini videos of each, all collected within one Youtube playlist.
 * 🌱 **I’m currently deepening my knowledge of Flask, React, MySQL, 3-D Printing, and developing data reading for my current HomeLab projects.**
 * 📫 **How to reach me:** [ChrisSanchezDev@gmail.com](mailto:ChrisSanchezDev@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/chrissanchezdev/).
 
