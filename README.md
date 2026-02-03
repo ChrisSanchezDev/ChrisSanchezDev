@@ -17,46 +17,51 @@ I'm a senior Computer Science student at Florida International University with a
 
 **Languages**
 <p>
-  <img src="https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python 3-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java SE 25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+   <img src="https://img.shields.io/badge/Python-005A9C?style=for-the-badge&logo=python&logoColor=white" />
+   <img src="https://img.shields.io/badge/JavaScript_(ES6+)-1E90FF?style=for-the-badge&logo=javascript&logoColor=white" />
+   <img src="https://img.shields.io/badge/Java-4682B4?style=for-the-badge&logo=openjdk&logoColor=white" />
+   <img src="https://img.shields.io/badge/HTML_/_CSS-00BFFF?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
-**Backend**
+**Backend & Systems**
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Auth.js-6DB33F?style=for-the-badge&logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webhooks-FF7139?style=for-the-badge&logo=webhook&logoColor=white" />
+   <img src="https://img.shields.io/badge/Flask-4B0082?style=for-the-badge&logo=flask&logoColor=white" />
+   <img src="https://img.shields.io/badge/REST_APIs-8A2BE2?style=for-the-badge&logo=fastapi&logoColor=white" />
+   <img src="https://img.shields.io/badge/Webhooks-9400D3?style=for-the-badge&logo=webhook&logoColor=white" />
+   <img src="https://img.shields.io/badge/Node.js-9932CC?style=for-the-badge&logo=node.js&logoColor=white" />
+   <img src="https://img.shields.io/badge/Express-BA55D3?style=for-the-badge&logo=express&logoColor=white" />
+   <img src="https://img.shields.io/badge/Auth.js-DDA0DD?style=for-the-badge&logo=auth0&logoColor=white" />
+   <img src="https://img.shields.io/badge/Linux_(Ubuntu)-800080?style=for-the-badge&logo=ubuntu&logoColor=white" />
+   <img src="https://img.shields.io/badge/Systemd-DA70D6?style=for-the-badge&logo=systemd&logoColor=white" />
+   <img src="https://img.shields.io/badge/Cron-EE82EE?style=for-the-badge&logo=linux&logoColor=white" />
+   <img src="https://img.shields.io/badge/SSH-FF00FF?style=for-the-badge&logo=openssh&logoColor=white" />
 </p>
 
-**Data & Databases**
+**Databases & Data**
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Caching-0078D4?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+   <img src="https://img.shields.io/badge/MongoDB-006400?style=for-the-badge&logo=mongodb&logoColor=white" />
+   <img src="https://img.shields.io/badge/Mongoose-228B22?style=for-the-badge&logo=mongoose&logoColor=white" />
+   <img src="https://img.shields.io/badge/MySQL-32CD32?style=for-the-badge&logo=mysql&logoColor=white" />
+   <img src="https://img.shields.io/badge/Pandas-3CB371?style=for-the-badge&logo=pandas&logoColor=white" />
+   <img src="https://img.shields.io/badge/NumPy-66CDAA?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-**Cloud & DevOps**
+**Cloud & Tools**
 <p>
-  <img src="https://img.shields.io/badge/AWS_(Certified)-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+   <img src="https://img.shields.io/badge/AWS_(Certified)-FF4500?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+   <img src="https://img.shields.io/badge/Netlify-FF8C00?style=for-the-badge&logo=netlify&logoColor=white" />
+   <img src="https://img.shields.io/badge/Git-FFA500?style=for-the-badge&logo=git&logoColor=white" />
+   <img src="https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=black" />
+   <img src="https://img.shields.io/badge/Tailscale-FF6347?style=for-the-badge&logo=tailscale&logoColor=white" />
+   <img src="https://img.shields.io/badge/Postman-FF7F50?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-**Methodologies**
+**Methodologies & Concepts**
 <p>
-  <img src="https://img.shields.io/badge/Agile_(Scrum)-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCS_Pattern-5C5C5C?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rapid_Prototyping-FFB11B?style=for-the-badge&logo=lightning&logoColor=black" />
+   <img src="https://img.shields.io/badge/Agile_(Scrum)-2F4F4F?style=for-the-badge&logo=jira&logoColor=white" />
+   <img src="https://img.shields.io/badge/Model--Controller--Service_Pattern-696969?style=for-the-badge&logo=instructure&logoColor=white" />
+   <img src="https://img.shields.io/badge/Data_Caching-708090?style=for-the-badge&logo=redis&logoColor=white" />
+   <img src="https://img.shields.io/badge/Rapid_Prototyping-778899?style=for-the-badge&logo=lightning&logoColor=white" />
 </p>
 
 ---
