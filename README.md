@@ -31,6 +31,7 @@ I'm a senior Computer Science student at Florida International University with a
    <img src="https://img.shields.io/badge/Node.js-9932CC?style=for-the-badge&logo=node.js&logoColor=white" />
    <img src="https://img.shields.io/badge/Express-BA55D3?style=for-the-badge&logo=express&logoColor=white" />
    <img src="https://img.shields.io/badge/Auth.js-DDA0DD?style=for-the-badge&logo=auth0&logoColor=white" />
+   <img src="https://img.shields.io/badge/WSL-9370DB?style=for-the-badge&logo=windows-subsystem-for-linux&logoColor=white" />
    <img src="https://img.shields.io/badge/Linux_(Ubuntu)-800080?style=for-the-badge&logo=ubuntu&logoColor=white" />
    <img src="https://img.shields.io/badge/Systemd-DA70D6?style=for-the-badge&logo=systemd&logoColor=white" />
    <img src="https://img.shields.io/badge/Cron-EE82EE?style=for-the-badge&logo=linux&logoColor=white" />
@@ -50,6 +51,7 @@ I'm a senior Computer Science student at Florida International University with a
 <p>
    <img src="https://img.shields.io/badge/AWS_(Certified)-FF4500?style=for-the-badge&logo=amazon-aws&logoColor=white" />
    <img src="https://img.shields.io/badge/Netlify-FF8C00?style=for-the-badge&logo=netlify&logoColor=white" />
+   <img src="https://img.shields.io/badge/Jira-FF9F00?style=for-the-badge&logo=jira&logoColor=white" />
    <img src="https://img.shields.io/badge/Git-FFA500?style=for-the-badge&logo=git&logoColor=white" />
    <img src="https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=black" />
    <img src="https://img.shields.io/badge/Tailscale-FF6347?style=for-the-badge&logo=tailscale&logoColor=white" />
