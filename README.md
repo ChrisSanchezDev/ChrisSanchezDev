@@ -5,6 +5,7 @@ I'm a senior Computer Science student at Florida International University with a
 ---
 
 * 🔭 **I’m currently working on:**
+    * **BrewEase**, a SaaS-based café POS platform designed to support in-store ordering, kitchen display workflows, payments, and customer loyalty within a multi-tenant architecture. Currently working within the Backend Team with Node.js, Express.js, and Firebase Databases.
     * **My own custom Portfolio + HomeLab website**, a website dedicated as a portfolio of my accomplishments as a Backend Software Engineer and a view into my Homelab project data (separate from my Homelab controller for managing over these projects).
     * **Applying for internships**, where I'd like to take the Summer to really learn all I can in a real-world enviornment while giving my all for the company I'll be working with, and hopefully building a connection to continue giving them my all with any future opportunities they may offer.
     * **Developing a way to demonstrate my projects**, likely thru creating Youtube videos atleast demonstrating my collection of HomeLab projects, or creating mini videos of each, all collected within one Youtube playlist.
@@ -29,7 +30,7 @@ I'm a senior Computer Science student at Florida International University with a
    <img src="https://img.shields.io/badge/REST_APIs-8A2BE2?style=for-the-badge&logo=fastapi&logoColor=white" />
    <img src="https://img.shields.io/badge/Webhooks-9400D3?style=for-the-badge&logo=webhook&logoColor=white" />
    <img src="https://img.shields.io/badge/Node.js-9932CC?style=for-the-badge&logo=node.js&logoColor=white" />
-   <img src="https://img.shields.io/badge/Express-BA55D3?style=for-the-badge&logo=express&logoColor=white" />
+   <img src="https://img.shields.io/badge/Express.js-BA55D3?style=for-the-badge&logo=express&logoColor=white" />
    <img src="https://img.shields.io/badge/Auth.js-DDA0DD?style=for-the-badge&logo=auth0&logoColor=white" />
    <img src="https://img.shields.io/badge/WSL-9370DB?style=for-the-badge&logo=windows-subsystem-for-linux&logoColor=white" />
    <img src="https://img.shields.io/badge/Linux_(Ubuntu)-800080?style=for-the-badge&logo=ubuntu&logoColor=white" />
